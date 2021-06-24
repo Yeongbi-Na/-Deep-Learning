@@ -29,11 +29,16 @@ https://github.com/AMANVerma28/Indoor-Outdoor-scene-classification
 
 
 ResNet50 - kmeans clustering
+
+
 -> Using ResNet50.ipynb
 
 Places365 - kmeans clustering
-> Using Places365.ipynb
+
+-> Using Places365.ipynb
 
 Places365 - PCA extraction - kmeans clustering
-> Using Places365.ipynb
- Pretrained model and DEC model for clustering cafe images
+
+-> Using Places365.ipynb
+
+
