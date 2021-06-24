@@ -1,5 +1,5 @@
 # Deep Learning
- Pretrained model and DEC model for clustering cafe images
+ Pretrained model and DEC model for clustering cafe interior images to classify cafe according to atmosphere. (after training model, we did survey about our result)
 
 <Collecting Image>
 > Crowling_cafe_images.ipynb
