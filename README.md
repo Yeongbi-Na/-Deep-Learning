@@ -1,7 +1,7 @@
 # Deep Learning
  Pretrained model and DEC model for clustering cafe interior images to classify cafe according to atmosphere. (after training model, we did survey about our result)
 
->>Collecting Image
+>Collecting Image
 > Crowling_cafe_images.ipynb
 The format of file is ipynb. 
 It's the code of crowling cafe image from naver maps.
