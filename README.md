@@ -21,11 +21,11 @@ I don't think they are perfect. But last model(Places365 - PCA extraction - kmea
 All of them didn't train more. They just return feature extraction about cafe images. 
 
 
-
 This site provide the code about Places365
 
 
 https://github.com/AMANVerma28/Indoor-Outdoor-scene-classification
+
 
 
 ResNet50 - kmeans clustering
