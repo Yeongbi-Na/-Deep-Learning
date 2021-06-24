@@ -9,7 +9,7 @@ The format of file is ipynb.
 It's the code of crawling cafe image from naver maps.
 Naver Map provide us maximum 70 lists of cafe per one search term.
 This code corwl 10 image per one cafe.
-Processing Exception is not perfect. So If you experience Exception problem, you have to try to crowl next image.
+Processing Exception is not perfect. So If you experience Exception problem, you have to try to crawl next image.
 
 <h2>Pretrained model</h2>
 I upload 3 models. They trained about 10143 cafe images.
