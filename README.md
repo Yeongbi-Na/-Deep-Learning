@@ -2,11 +2,11 @@
  Pretrained model and DEC model for clustering cafe interior images to classify cafe according to atmosphere. (after training model, we did survey about our result)
 
 <h2>Collecting Image</h2>
-Crowling_cafe_images.ipynb
+image__crawling.ipynb
 
 
 The format of file is ipynb. 
-It's the code of crowling cafe image from naver maps.
+It's the code of crawling cafe image from naver maps.
 Naver Map provide us maximum 70 lists of cafe per one search term.
 This code corwl 10 image per one cafe.
 Processing Exception is not perfect. So If you experience Exception problem, you have to try to crowl next image.
