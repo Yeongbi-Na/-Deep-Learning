@@ -1,6 +1,6 @@
 # Deep Learning - Cafe Clustering
  Pretrained model and DEC model for clustering cafe images
-
+ I uploaded report in Korean and English
 ## Collecting Image - Crowling_cafe_images.ipynb
 
 
