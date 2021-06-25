@@ -1,17 +1,21 @@
 # Deep Learning - Cafe Clustering
  Pretrained model and DEC model for clustering cafe images
 
-<Collecting Image>
-> Crowling_cafe_images.ipynb
-The format of file is ipynb. 
-It's the code of crowling cafe image from naver maps.
-Naver Map provide us maximum 70 lists of cafe per one search term.
-This code corwl 10 image per one cafe.
-Processing Exception is not perfect. So If you experience Exception problem, you have to try to crowl next image.
+## Collecting Image - Crowling_cafe_images.ipynb
+
+
+I crawled cafe interior image from naver maps.
+
+
+Naver Map provide us maximum 70 lists of cafe per one search term. And I did corwl 10 images per one cafe.
+
+
+Processing Exception is not perfect. So If you experience Exception problem, you have to try to crawl next image.
+
 
 <Pretrained model>
-I upload 3 models. They trained about 10143 cafe images.
-I don't think they are perfect. But last model(Places365 - PCA extraction - kmeans clustering) is best model. 
+I did 3 models. They trained about 10143 cafe images.
+I don't think All of them are perfect. But last model(Places365 - PCA extraction - kmeans clustering) is best model. 
 All of them didn't train more. They just return feature extraction about cafe images. 
 
 This site provide the code about Places365
