@@ -31,3 +31,8 @@ Places365 - kmeans clustering
 Places365 - PCA extraction - kmeans clustering
 > Using Places365.ipynb
  Pretrained model and DEC model for clustering cafe images
+ 
+ DEC model
+ > DEC.ipynb
+ It is not pretrained model
+ 
