@@ -43,6 +43,8 @@ https://github.com/AMANVerma28/Indoor-Outdoor-scene-classification
     Place365_model2_model3.ipynb.ipynb
 
 
+### DEC model
+dec model.ipynb
 
 
  ![report_English-page-001](https://user-images.githubusercontent.com/61492320/123393524-22005a00-d5d9-11eb-872a-1c3462e8dd8e.jpg)
