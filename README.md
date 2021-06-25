@@ -2,7 +2,7 @@
 ## Cafe Clustering - Team Project
 
 
-Recently, the atmosphere of cafes, like "instar sensibility," is a big factor in individual cafe selection. 
+Recently, the atmosphere of cafes, like "instagram atmosphere cafe", is a big factor in individual cafe selection. 
 
 
 But People take a lot of time to find a cafe of their own style. 
