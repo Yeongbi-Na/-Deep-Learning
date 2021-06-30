@@ -1,5 +1,5 @@
 
-## Cafe Clustering - Team Project
+## Cafe Classification - Team Project
 
 
 Recently, the atmosphere of cafes, like "instagram atmosphere cafe", is a big factor in individual cafe selection. 
