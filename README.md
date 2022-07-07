@@ -4,4 +4,6 @@
 논문 리뷰
 
 
-[소고기 신선도 분류 모델](https://blog.naver.com/nybi123/222789424230)
+
+## Object Detection
+[Yolo(You Only Look Once)](https://blog.naver.com/nybi123?Redirect=Update&logNo=222803345378)
