@@ -5,6 +5,8 @@ object detection에서 중복이 발생하는 BBox를 제거하기 위해 사용
 2. RoI점수가 높은 propsal과 다른 proposals에 대해서 overlapping 비교
 3. overlapping이 높은 것은 특정 threshold이상이면 지워버림(보통 threshold 0.6~0.9)
 4. 위 과정을 반복하며 삭제
+*Yolo연구원의 NMS 설명자료: https://docs.google.com/presentation/d/1aeRvtKG21KHdD5lg6Hgyhx5rPq_ZOsGjG5rJ1HP7BbA/pub?start=false&loop=false&delayms=3000&slide=id.g137784ab86_4_5544
+
 
 </br>
 
