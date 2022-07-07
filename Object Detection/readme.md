@@ -19,8 +19,8 @@ object detection에서 중복이 발생하는 BBox를 제거하기 위해 사용
 </br>
 
 ## 분류 성능지표
-- Precision = (TP)/(TP+FP) True라고 예측한 것 중 맞힌 것
-- Recall = TP/(TP+FN) 실제값이 True 인것중 맞힌 것
+- Precision = (TP)/(TP+FP) True라고 예측한 것 중 맞힌 것 ex) 스팸메일 예측 실제로 F인 것을 T로 예측하면 안됨
+- Recall = TP/(TP+FN) 실제값이 True 인것중 맞힌 것 ex) 암 검출, 금융사기
 - F1 score = 2*(Precision + Recall)/(Precision + Recall)
 
 </br>
