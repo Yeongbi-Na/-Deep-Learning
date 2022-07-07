@@ -27,7 +27,7 @@ object detection에서 중복이 발생하는 BBox를 제거하기 위해 사용
 
 ## Object dectection에서의 성능지표
 - Precision: 예측한 BBox들 중 클래스까지 정확히 예측한 비율
-- Recall: 실제 Object들 중 BBox를 정확히 클래스를 예측한 비율
+- Recall: 실제 Object들 중 박스를 제대로 친 비율
 - TP: BBox, 클래스 모두 정확히 예측한 경우 (IoU >= 임계값)
 - FP: 실제 object가 아닌데 BBox 생성 or 클래스 예측(IoU <= 임계값)
 - FN: 실제 Object인데 BBox 생성하지 않은 개수
