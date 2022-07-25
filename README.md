@@ -3,7 +3,7 @@
 [Yolo(You Only Look Once)](https://blog.naver.com/nybi123/222803345378) </br>
 [SSD(Single shot Detector)](https://blog.naver.com/nybi123)</br>
 [RCNN(Regions with CNN features)](https://blog.naver.com/nybi123/222816888626)</br>
-
+[Fast R-CNN](https://blog.naver.com/nybi123/222824240300)
 </br>
 
 
