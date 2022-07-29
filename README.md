@@ -28,5 +28,12 @@
 2. Fast RCNN에서 급격하게 속도가 빨라졌다. 그 이유는?
 3. Fast RCNN은 기존 SVM 대신 softmax로 분류를 수행했다. softmax가 더 빠른가?
 
+
+### - [Faster R-CNN](https://blog.naver.com/nybi123/222829407704)</br> 
+1. training region proposal는 SS로 고정하고 test 는 RPN 으로 수행한 실험이 있음. 이렇게 해도 돠나? 타당한가?
+2. 모든 과정을 GPU에서 수행할 수 있게 된 이유
+
 ## Object Detection 개념 정리
 [What is Object Detection? compare with otehr algorithms](https://blog.naver.com/nybi123/222803349891)
+
+
