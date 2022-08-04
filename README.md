@@ -7,7 +7,7 @@
 
 ### - [Yolo(You Only Look Once)](https://blog.naver.com/nybi123/222803345378) </br>
 1. 왜 obj, noobj로 나누고 가중치를 부여했는가?
-2.  BBox 생성시 제약사항은 없는지
+2.  BBox 생성시 제약사항은 없는지(최소 개수, 최소 grid size, 생성하는 Bbox의 범위 등)
 3. 그리드 사이즈보다 작은 object도 잘 detection 하는지
 
 ### - [SSD(Single shot Detector)](https://blog.naver.com/nybi123)</br>
