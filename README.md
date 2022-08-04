@@ -37,3 +37,7 @@
 [What is Object Detection? compare with otehr algorithms](https://blog.naver.com/nybi123/222803349891)
 
 
+
+## Semantic Segmentation 논문 리뷰
+
+[FCN(fully connected network)](https://blog.naver.com/nybi123/222839521365)
