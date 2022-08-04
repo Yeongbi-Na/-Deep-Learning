@@ -33,11 +33,15 @@
 1. training region proposal는 SS로 고정하고 test 는 RPN 으로 수행한 실험이 있음. 이렇게 해도 돠나? 타당한가?
 2. 모든 과정을 GPU에서 수행할 수 있게 된 이유
 
-## Object Detection 개념 정리
-[What is Object Detection? compare with otehr algorithms](https://blog.naver.com/nybi123/222803349891)
-
-
+</br>
 
 ## Semantic Segmentation 논문 리뷰
 
 [FCN(fully connected network)](https://blog.naver.com/nybi123/222839521365)
+
+</br>
+
+## Object Detection 개념 정리
+[What is Object Detection? compare with otehr algorithms](https://blog.naver.com/nybi123/222803349891)
+
+
