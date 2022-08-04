@@ -37,7 +37,10 @@
 
 ## Semantic Segmentation 논문 리뷰
 
-[FCN(fully connected network)](https://blog.naver.com/nybi123/222839521365)
+### - [FCN(fully connected network)](https://blog.naver.com/nybi123/222839521365)
+1. 성능 비교 실험에서 R-CNN과 비교했는데 타당한 것인가?
+2. kernal size가 1인 conv layer를 사용하는 이유, 장점
+
 
 </br>
 
