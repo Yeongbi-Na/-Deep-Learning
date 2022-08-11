@@ -41,6 +41,9 @@
 1. 성능 비교 실험에서 R-CNN과 비교했는데 타당한 것인가?
 2. kernal size가 1인 conv layer를 사용하는 이유, 장점
 
+### - [U-net](https://blog.naver.com/nybi123/222845787585)
+1. 이미지 데이터를 patch 단위로 나누어 사용하는 이유?
+2. overlap 해서 패치 구성, overlap하지 않고 패치 구성 시 주의할점
 
 </br>
 
