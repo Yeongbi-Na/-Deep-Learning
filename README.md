@@ -45,7 +45,7 @@
 1. 이미지 데이터를 patch 단위로 나누어 사용하는 이유?
 2. overlap 해서 패치 구성, overlap하지 않고 패치 구성 시 주의할점
 
-[Encoder-Decoder  with  Atrous  Separable Convolution](https://blog.naver.com/nybi123/222851553250)
+### - [Encoder-Decoder  with  Atrous  Separable Convolution](https://blog.naver.com/nybi123/222851553250)
 1. 왜 Receptive field가 큰 것이 좋은지
 2. Atrous conv (dilated conv)가 sementic segmentation에서 더 좋은지?
 3. objec boundaries에 대해 잘 예측한다와 같은 주장에 대한 실험 설계가 굉장히 까다로운 것 같다. detail이란 것이 주관적이기도 하고 이에 대한 마땅한 metrics가 없기 때문에 논문으로 제안된 모델을 사용할 때에도 이런 것들을 염두해두어야할 거 같다
