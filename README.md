@@ -10,7 +10,7 @@
 2.  BBox 생성시 제약사항은 없는지(최소 개수, 최소 grid size, 생성하는 Bbox의 범위 등)
 3. 그리드 사이즈보다 작은 object도 잘 detection 하는지
 
-### - [SSD(Single shot Detector)](https://blog.naver.com/nybi123)</br>
+### - [SSD(Single shot Detector)](https://blog.naver.com/nybi123/222808647489)</br>
 1. 왜 더 큰 receptive field가 필요한가?
 2. smooth L1에서는 왜 [-1, 1] 구간에서 L2를 쓰고 L1을 쓰는가?
 3. 만약 YOLO의 단점인 small size object detection에 대한 성능 측정을 하고자 한다면? (다양한 사이즈의 object를 가진 이미지이며 우리는 작은 사이즈 object에 대한 성능만 측정하고 싶다)
