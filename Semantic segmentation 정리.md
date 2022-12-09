@@ -1,0 +1,2 @@
+## Semantic segmentatin이란?
+
