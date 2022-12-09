@@ -33,7 +33,7 @@
 - 하나의 input을 4x4, 2x2, 1x1 의 영역으로 나눔 -> 3개의 피라미드 생성
 - 각각에 대해 Pooling을 수행하고 1x1 conv로 채널 수 조정
 - 다시 featuremap 크기에 맞도록 upsampling
-- (효과) 
+- (효과) global context 정보를 얻을 수 있음
 
 </br>
 
