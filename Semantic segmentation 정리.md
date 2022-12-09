@@ -1,6 +1,6 @@
 ## Semantic segmentation?
 ![image](https://user-images.githubusercontent.com/61492320/206649803-ef5c565e-b351-4152-8e32-4ad01b0a449b.png)
-#### 픽셀단위로 각 픽셀이 어떤 클래스에 속하는 분류 문제
+#### '픽셀단위로 각 픽셀이 어떤 클래스에 속하는지' 분류하는 문제
 
 </br>
 
