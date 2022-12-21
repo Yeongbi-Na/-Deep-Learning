@@ -24,8 +24,9 @@
 5. 이 standard hard negative mining method 은 어떻게 구현하는지
 
 ### - [Fast R-CNN](https://blog.naver.com/nybi123/222824240300)</br>
-1. Fast RCNN에서 급격하게 속도가 빨라졌다. 그 이유는?
-2. Fast RCNN은 기존 SVM 대신 softmax로 분류를 수행했다. softmax가 더 빠른가?
+1. scale invariance 필요한 이유
+2. Fast RCNN에서 급격하게 속도가 빨라졌다. 그 이유는?
+3. Fast RCNN은 기존 SVM 대신 softmax로 분류를 수행했다. softmax가 더 빠른가?
 
 
 ### - [Faster R-CNN](https://blog.naver.com/nybi123/222829407704)</br> 
